@@ -1,5 +1,5 @@
 # Proyecto-BE
-Primer proyecto de practica backend cuyo objetivo era crear un middleware y vincularlo a una api
+Primer proyecto de practica backend basado en un petshop, cuyo objetivo era crear un middleware y vincularlo a una api.
 
 <h2> Dependencias usadas:</h2>
     "axios",
